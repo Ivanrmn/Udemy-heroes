@@ -21,4 +21,6 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
   * subitem
   * subitem
   
-  ![Github](https://mascandobits.es/blog/wp-content/uploads/2016/01/github-social-coding.png)
+![Github](https://mascandobits.es/blog/wp-content/uploads/2016/01/github-social-coding.png)
+
+[Ir a la imagen](https://mascandobits.es/blog/wp-content/uploads/2016/01/github-social-coding.png)
