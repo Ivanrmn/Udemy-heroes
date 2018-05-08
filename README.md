@@ -2,7 +2,7 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
+:clapper: -> Emoji cheat sheet github
 ## Notas
 Pueden hacer lo que quieran...
 
@@ -12,7 +12,7 @@ Pueden hacer lo que quieran...
 #### h4
 ##### h5
 
-Un **gran poder** requiere _una_ gran *responsabilidad*
+Un **gran poder** requiere una gran *responsabilidad*
 > Ben Parker
 
 1. item
